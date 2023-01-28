@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/infection-safe-environment/static/css/main.feb1f52f.css",
+    "main.js": "/infection-safe-environment/static/js/main.50e30a14.js",
+    "static/js/787.87a5aae6.chunk.js": "/infection-safe-environment/static/js/787.87a5aae6.chunk.js",
+    "static/media/chai.jpg": "/infection-safe-environment/static/media/chai.ba95f082f5a8a18ae5b8.jpg",
+    "index.html": "/infection-safe-environment/index.html",
+    "main.feb1f52f.css.map": "/infection-safe-environment/static/css/main.feb1f52f.css.map",
+    "main.50e30a14.js.map": "/infection-safe-environment/static/js/main.50e30a14.js.map",
+    "787.87a5aae6.chunk.js.map": "/infection-safe-environment/static/js/787.87a5aae6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb1f52f.css",
+    "static/js/main.50e30a14.js"
+  ]
+}
